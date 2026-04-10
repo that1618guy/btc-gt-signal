@@ -1,23 +1,13 @@
 {
-  "updated_at": "2026-04-09T06:13:25Z",
-  "date": "2026-04-08",
+  "updated_at": "2026-04-10T05:52:10Z",
+  "date": "2026-04-09",
   "regime": "C",
-  "day": 9,
-  "price": 71089.08,
-  "cps": 0.7152,
-  "cps_7d_avg": 0.6895,
+  "day": 10,
+  "price": 71797.32,
+  "cps": 0.7456,
+  "cps_7d_avg": 0.7137,
   "cps_trend": "Rising",
-  "trade_action": {
-    "type": "ENTRY",
-    "component": "C0",
-    "direction": "long",
-    "sizing_pct": 30,
-    "entry_price": 71089.08,
-    "stop_loss": 68956.4,
-    "take_profit_pct": 10,
-    "max_hold_days": 10,
-    "is_reentry": false
-  },
+  "trade_action": "none",
   "active_positions": [
     {
       "component": "C0",
