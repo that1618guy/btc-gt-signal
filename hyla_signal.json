@@ -1,22 +1,21 @@
 {
-  "updated_at": "2026-04-18T06:05:11Z",
-  "date": "2026-04-17",
+  "updated_at": "2026-04-19T05:52:42Z",
+  "date": "2026-04-18",
   "regime": "C",
-  "day": 18,
-  "price": 77105.68,
-  "cps": 0.7401,
-  "cps_7d_avg": 0.7314,
-  "cps_trend": "Stable",
-  "trade_action": "none",
-  "active_positions": [
-    {
-      "component": "C0",
-      "direction": "long",
-      "entry_date": "2026-04-08",
-      "entry_price": 71089.08,
-      "stop_loss": 68956.4,
-      "take_profit_pct": 10,
-      "is_reentry": false
-    }
-  ]
+  "day": 19,
+  "price": 75730.99,
+  "cps": 0.7863,
+  "cps_7d_avg": 0.7405,
+  "cps_trend": "Rising",
+  "trade_action": {
+    "type": "EXIT",
+    "component": "C0",
+    "direction": "close_long",
+    "exit_price": 75730.99,
+    "exit_type": "MAX HOLD",
+    "entry_price": 71089.08,
+    "pnl_pct": 6.53,
+    "port_return_pct": 1.96
+  },
+  "active_positions": []
 }
