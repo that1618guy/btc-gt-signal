@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-14T12:03:30Z",
-  "date": "2026-06-13",
+  "updated_at": "2026-06-15T08:33:21Z",
+  "date": "2026-06-14",
   "regime": "C",
-  "day": 75,
-  "price": 64401.47,
-  "cps": 0.5218,
-  "cps_7d_avg": 0.5383,
+  "day": 76,
+  "price": 65705.49,
+  "cps": 0.531,
+  "cps_7d_avg": 0.538,
   "cps_trend": "Falling",
   "trade_action": "none",
   "active_positions": [
