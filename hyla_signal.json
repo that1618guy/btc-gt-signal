@@ -1,21 +1,12 @@
 {
-  "updated_at": "2026-08-05T16:00:21Z",
-  "date": "2026-08-04",
+  "updated_at": "2026-08-06T05:00:46Z",
+  "date": "2026-08-05",
   "regime": "Mixed",
-  "day": 1,
-  "price": 64059.76,
-  "cps": 0.3061,
-  "cps_7d_avg": 0.3714,
+  "day": 2,
+  "price": 64604.49,
+  "cps": 0.3328,
+  "cps_7d_avg": 0.3529,
   "cps_trend": "Falling",
-  "trade_action": {
-    "type": "EXIT",
-    "component": "C1",
-    "direction": "close_long",
-    "exit_price": 64059.76,
-    "exit_type": "REGIME FLIP",
-    "entry_price": 80666.55,
-    "pnl_pct": -20.59,
-    "port_return_pct": -20.59
-  },
+  "trade_action": "none",
   "active_positions": []
 }
