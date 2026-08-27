@@ -1,22 +1,24 @@
 {
-  "updated_at": "2026-08-26T14:40:53Z",
-  "date": "2026-08-25",
-  "regime": "Mixed",
-  "day": 21,
-  "price": 78511.76,
-  "cps": 0.2078,
+  "updated_at": "2026-08-27T05:00:38Z",
+  "date": "2026-08-26",
+  "regime": "C",
+  "day": 1,
+  "price": 79014.11,
+  "cps": 0.2161,
   "cps_strength": "Defection Conditions",
-  "margin_of_safety": -0.3622,
-  "d_dials": 2,
+  "margin_of_safety": -0.3539,
+  "d_dials": 1,
   "dials": {
-    "whale_on": 1,
+    "whale_on": 0,
     "funding_on": 0,
     "oi_on": 1,
     "vol_compressed": 1,
     "lth_share_on": 0,
-    "exch_bal_on": 0
+    "exch_bal_on": 1
   },
-  "gt_exposure_pct": 0.0,
-  "gt_positions": [],
-  "bdis_exposure_room_pct": 150.0
+  "gt_exposure_pct": 30.0,
+  "gt_positions": [
+    "C0"
+  ],
+  "bdis_exposure_room_pct": 120.0
 }

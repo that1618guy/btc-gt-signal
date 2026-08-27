@@ -1,12 +1,22 @@
 {
-  "updated_at": "2026-08-26T14:40:53Z",
-  "date": "2026-08-25",
-  "regime": "Mixed",
-  "day": 21,
-  "price": 78511.76,
-  "cps": 0.2078,
-  "cps_7d_avg": 0.2287,
+  "updated_at": "2026-08-27T05:00:38Z",
+  "date": "2026-08-26",
+  "regime": "C",
+  "day": 1,
+  "price": 79014.11,
+  "cps": 0.2161,
+  "cps_7d_avg": 0.2176,
   "cps_trend": "Falling",
   "trade_action": "none",
-  "active_positions": []
+  "active_positions": [
+    {
+      "component": "C0",
+      "direction": "long",
+      "entry_date": "2026-04-08",
+      "entry_price": 71089.08,
+      "stop_loss": 68956.4,
+      "take_profit_pct": 10,
+      "is_reentry": false
+    }
+  ]
 }
