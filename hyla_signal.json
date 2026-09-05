@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-04T17:21:40Z",
-  "date": "2026-09-03",
+  "updated_at": "2026-09-05T05:00:43Z",
+  "date": "2026-09-04",
   "regime": "Mixed",
-  "day": 2,
-  "price": 81261.98,
-  "cps": 0.155,
-  "cps_7d_avg": 0.1905,
+  "day": 3,
+  "price": 79697.71,
+  "cps": 0.1716,
+  "cps_7d_avg": 0.1875,
   "cps_trend": "Falling",
   "trade_action": "none",
   "active_positions": [
