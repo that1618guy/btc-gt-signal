@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T18:15:39Z",
-  "date": "2026-10-21",
+  "updated_at": "2026-10-23T05:00:42Z",
+  "date": "2026-10-22",
   "regime": "C",
-  "day": 26,
-  "price": 84035.82,
-  "cps": 0.1505,
+  "day": 27,
+  "price": 81338.49,
+  "cps": 0.1698,
   "cps_strength": "Defection Conditions",
-  "margin_of_safety": -0.4195,
+  "margin_of_safety": -0.4002,
   "d_dials": 1,
   "dials": {
     "whale_on": 0,
