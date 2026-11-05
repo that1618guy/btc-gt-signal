@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-04T20:39:36Z",
-  "date": "2026-11-03",
+  "updated_at": "2026-11-05T05:00:34Z",
+  "date": "2026-11-04",
   "regime": "C",
-  "day": 39,
-  "price": 77372.92,
-  "cps": 0.1493,
-  "cps_7d_avg": 0.1648,
+  "day": 40,
+  "price": 80438.72,
+  "cps": 0.1593,
+  "cps_7d_avg": 0.1661,
   "cps_trend": "Stable",
-  "trade_action": "none",
+  "trade_action": {
+    "type": "ENTRY",
+    "component": "C1",
+    "direction": "long",
+    "sizing_pct": 100,
+    "entry_price": 80438.72,
+    "circuit_breaker_pct": -28,
+    "exit_conditions": "regime_flip OR circuit_breaker OR momentum_capture(+20% at day 60)"
+  },
   "active_positions": [
     {
       "component": "C0",
@@ -17,6 +25,13 @@
       "stop_loss": 68956.4,
       "take_profit_pct": 10,
       "is_reentry": false
+    },
+    {
+      "component": "C1",
+      "direction": "long",
+      "entry_date": "2026-11-04",
+      "entry_price": 80438.72,
+      "circuit_breaker_pct": -28
     }
   ]
 }
